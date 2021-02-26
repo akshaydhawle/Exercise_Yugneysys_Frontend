@@ -1,0 +1,13 @@
+.app-container {
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+}
+
+.app-form {
+	margin: 3rem 0;
+	width: 50%;
+	height: 40%;
+	padding: 2rem;
+	border: 1px solid rgb(206, 180, 180);
+}
